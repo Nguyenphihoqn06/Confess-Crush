@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Thách từ chối được ^^ ',
     btnYes: 'Vẫn cứ là yêuu <33',
     btnNo: 'Không nha :3',
-    question: 'Ơ sao giữa 7 tỉ người tại sao lại chọn tui vậy?!',
+    question: 'Ơ giữa 7 tỉ người tại sao lại chọn tui vậy?!',
     btnReply: 'Gửi cho Cọp <3',
     reply: 'Tình yêu đâu cần lý do đâuu <33333333',
     mess: 'Đáng yêu vậy',
